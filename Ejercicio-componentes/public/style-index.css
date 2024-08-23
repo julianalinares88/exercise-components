@@ -1,0 +1,9 @@
+body{
+    background-color: #f2f2f2;
+    
+}
+/* ponerle un color de fondo a la pagina sin tocar shadowRoot */
+
+.app{
+    width: 100%;
+}

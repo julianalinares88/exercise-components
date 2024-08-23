@@ -1,0 +1,16 @@
+{
+	"name": "class05",
+	"version": "1.0.0",
+	"description": "![Web components](https://ionic.io/blog/wp-content/uploads/2019/02/5-reasons-web-components-design-systems.png)",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "serve"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"serve": "^14.2.3"
+	}
+}
